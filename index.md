@@ -7,7 +7,7 @@ title: Yuri A. Wolf
 
 **Location:** Cairo, Egypt  
 **Email:** MYuri2020@gmail.com  
-**Website:** [https://xYuri.github.io/xYuri](https://xYuri.github.io/xYuri)
+**Website:** [https://xYuri.github.io/xYuri](https://xYuri.github.io/xYuri)  
 
 ---
 
@@ -28,16 +28,16 @@ Delivering complete commercial solutions independently while continuously explor
 ## Core Competencies
 
 **Programming Languages**  
-C, C++, C#, HLSL, Java, Kotlin, PHP, SQL, JSON, JavaScript, TypeScript, Lua, XML, XAML, HTML5, CSS3, Python, Dart, Shell Script (.sh), AutoIt, AHK, Amadeus
+C, C++, C#, HLSL, Java, Kotlin, PHP, SQL, JSON, JavaScript, TypeScript, Lua, XML, XAML, HTML5, CSS3, Python, Dart, Shell Script (.sh), AutoIt, AHK, Amadeus  
 
 **Frameworks & Platforms**  
-Android (SDK & NDK), Node.js, Spring Boot, Kotlin Multiplatform (KMP) Compose, React, WinUI, WPF, MAUI, Uno Platform, Flutter
+Android (SDK & NDK), Node.js, Spring Boot, Kotlin Multiplatform (KMP) Compose, React, WinUI, WPF, MAUI, Uno Platform, Flutter  
 
 **Game Engines**  
-Unity, Unreal Engine 4
+Unity, Unreal Engine 4  
 
 **Tools & DevOps**  
-Git, RESTful APIs, Docker
+Git, RESTful APIs, Docker  
 
 
 
@@ -54,16 +54,13 @@ Git, RESTful APIs, Docker
 
 Axis is an all-in-one life companion that brings together Todos & Tasks, Health tracking, Financial tracking, and Personalization tools, making it effortless to keep track of everything, stay organized, and in control.
 
-**Platforms:** Windows, Linux, MAC, Android, iOS, Web
-
-**Languages:** Kotlin, SQL, JSON, JS
-
-**Framework:** KMP Compose Multiplatform
-
-**Libraries & APIs:** Material 3, Room 3, Win32, Android, WASM, ProtoBuf, KMP-ZIP, Google Drive API, Custom Encryptions
+**Platforms:** Windows, Linux, MAC, Android, iOS, Web  
+**Languages:** Kotlin, SQL, JSON, JS  
+**Framework:** KMP Compose Multiplatform  
+**Libraries & APIs:** Material 3, Room 3, Win32, Android, WASM, ProtoBuf, KMP-ZIP, Google Drive API, Custom Encryptions  
 
 
-
+<br/>
 
 
 - ### xAgent
@@ -78,41 +75,35 @@ A productivity toolkit designed for customer service agents to streamline daily 
 	- Farelogix-like coupon viewer
 	- Idle-time stopwatch to help manage chat disconnection policies
 
-**Platforms:** Web
-
-**Languages:** HTML, CSS, JavaScript, TypeScript, JSON
-
-**Framework:** React.js
+**Platforms:** Web  
+**Languages:** HTML, CSS, JavaScript, TypeScript, JSON  
+**Framework:** React.js  
 
 
-
+<br/>
 
 
 - ### xQBot (Telegram)
 A Telegram chat bot that manages queues in group chats to organize speaker turns, with a developer control panel through chat, admin control panel, and permissions system. Trusted by around 50k active users.
 
-**Platforms:** Telegram
-
-**Languages:** Java, Kotlin, JSON
-
-**Frameworks:** Telegram Bot API, Spring Boot, Docker
+**Platforms:** Telegram  
+**Languages:** Java, Kotlin, JSON  
+**Frameworks:** Telegram Bot API, Spring Boot, Docker  
 
 
-
+<br/>
 
 
 - ### xDevLogs
 Creates and manages dev logs and todo lists for developers, enabling easier tracking of issues, additions, deletions, and new features.
 Includes time management with organized listing by year, month, and day.
 
-**Platforms:** Windows
-
-**Languages:** C#, SQL, JSON
-
-**Frameworks:** MAUI, .NET 10.0
+**Platforms:** Windows  
+**Languages:** C#, SQL, JSON  
+**Frameworks:** MAUI, .NET 10.0  
 
 
-
+<br/>
 
 
 - ### xCompanion: Albion (Re-written for Windows)
@@ -122,14 +113,12 @@ A comprehensive companion toolkit for Albion Online players, designed to enhance
 	- Crafting profitability calculator with real-time material cost tracking
 	- Enchantment profitability calculator with real-time material cost tracking
 
-**Platforms:** Windows
-
-**Languages:** C#, SQL, JSON
-
-**Frameworks:** MAUI, .NET 10.0, Albion Online Data Project API
+**Platforms:** Windows  
+**Languages:** C#, SQL, JSON  
+**Frameworks:** MAUI, .NET 10.0, Albion Online Data Project API  
 
 
-
+<br/>
 
 
 - ### xCompanion: EVE (aka xEvE)
@@ -140,14 +129,12 @@ A companion toolkit for EVE Online players, designed to enhance the gaming exper
 	- PI Mining profit calculator from raw and processed resources
 	- LP Stores profit calculator
 
-**Platforms:** Windows
-
-**Languages:** C#, SQL, JSON
-
-**Frameworks:** WinUI 3, WPF, .NET 7.0, ESI (EVE Swagger Interface) API
+**Platforms:** Windows  
+**Languages:** C#, SQL, JSON  
+**Frameworks:** WinUI 3, WPF, .NET 7.0, ESI (EVE Swagger Interface) API  
 
 
-
+<br/>
 
 
 - ### xCompanion: Albion (Android)
@@ -157,10 +144,9 @@ A comprehensive companion toolkit for Albion Online players, designed to enhance
 	- Crafting profitability calculator with real-time material cost tracking
 	- Enchantment profitability calculator with real-time material cost tracking
 
-**Platforms:** Android
-
-**Languages:** Kotlin, JSON
-
-**Frameworks:** Android, Albion Online Data Project API
+**Platforms:** Android  
+**Languages:** Kotlin, JSON  
+**Frameworks:** Android, Albion Online Data Project API  
 
 
+<br/>
