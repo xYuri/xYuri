@@ -38,6 +38,6 @@ Git, RESTful APIs, Docker
 
 
 
-[Full Bio](https://xyuri.github.io/xYuri)
+### [Full Bio](https://xyuri.github.io/xYuri)
 
 
