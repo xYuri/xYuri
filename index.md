@@ -18,14 +18,12 @@ title: Yuri A. Wolf
 
 
 - ### Axis (Mid 2026)
-**Link:** [https://xYuri.github.io/Axis](https://xYuri.github.io/Axis)
-
 Axis is an all-in-one life companion that brings together Todos & Tasks, Health tracking, Financial tracking, and Personalization tools, making it effortless to keep track of everything, stay organized, and in control.
 
+**Link:** [https://xYuri.github.io/Axis](https://xYuri.github.io/Axis)  
 **Platforms:** Windows, Linux, MAC, Android, iOS, Web  
 **Languages:** Kotlin, SQL, JSON, JS  
-**Framework:** KMP Compose Multiplatform  
-**Libraries & APIs:** Material 3, Room 3, Win32, Android, WASM, ProtoBuf, KMP-ZIP, Google Drive API, Custom Encryptions  
+**Frameworks & APIs:** KMP Compose Multiplatform, Material 3, Room 3, Win32, Android, WASM, ProtoBuf, KMP-ZIP, Google Drive API, Custom Encryptions  
 
 
 
@@ -38,8 +36,6 @@ Axis is an all-in-one life companion that brings together Todos & Tasks, Health 
 
 
 - ### xAgent (Early 2026)
-**Link:** [https://xYuri.github.io/xAgent](https://xYuri.github.io/xAgent)
-
 A productivity toolkit designed for customer service agents to streamline daily workflows.  
 Features include:
 	- Fast drag-and-drop template system with smart variants (randomized, sequential, or fixed selection)
@@ -50,6 +46,7 @@ Features include:
 	- Farelogix-like coupon viewer
 	- Idle-time stopwatch to help manage chat disconnection policies
 
+**Link:** [https://xYuri.github.io/xAgent](https://xYuri.github.io/xAgent)  
 **Platforms:** Web  
 **Languages:** HTML, CSS, JavaScript, TypeScript, JSON  
 **Framework:** React.js  
@@ -110,7 +107,7 @@ Features include:
 
 **Platforms:** Windows  
 **Languages:** C#, SQL, JSON  
-**Frameworks:** MAUI, .NET 10.0, Albion Online Data Project API  
+**Frameworks & APIs:** MAUI, .NET 10.0, Albion Online Data Project API  
 
 
 
@@ -133,7 +130,7 @@ Features include:
 
 **Platforms:** Windows  
 **Languages:** C#, SQL, JSON  
-**Frameworks:** WinUI 3, WPF, .NET 7.0, ESI (EVE Swagger Interface) API  
+**Frameworks & APIs:** WinUI 3, WPF, .NET 7.0, ESI (EVE Swagger Interface) API  
 
 
 
@@ -155,7 +152,7 @@ Features include:
 
 **Platforms:** Android  
 **Languages:** Kotlin, JSON  
-**Frameworks:** Android, Albion Online Data Project API  
+**Frameworks & APIs:** Android, Albion Online Data Project API  
 
 
 
@@ -175,9 +172,9 @@ Features include:
 	- Performance optimized – Handles large codebases with minimal memory footprint and fast execution
 	- Progress feedback – Real-time progress indicator for large directory scans
 
-Platforms: Windows
-Languages: C#
-Frameworks: .NET 8.0
+**Platforms:** Windows  
+**Languages:** C#  
+**Frameworks:** .NET 8.0  
 
 
 
@@ -201,7 +198,7 @@ Key capabilities include:
 **Platforms:** Android  
 **Client Languages:** C, C++, Assembly (ASM), Java, Kotlin, JSON  
 **Server Languages:** PHP, SQL, JSON, HTML, CSS, JavaScript  
-**Frameworks:** Android SDK/NDK, Sockets (TCP/UDP), PUBGM SDK Decompilation, Manual Memory Observation and Manipulation, Custom Overlay Rendering Engine, Custom Multi-Layered Security System  
+**Frameworks & APIs:** Android SDK/NDK, Sockets (TCP/UDP), PUBGM SDK Decompilation, Manual Memory Observation and Manipulation, Custom Overlay Rendering Engine, Custom Multi-Layered Security System  
 
 
 
