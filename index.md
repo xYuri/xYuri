@@ -4,7 +4,7 @@ title: Yuri A. Wolf
 ---
 
 
-{% capture readme_content %}{% include README.md %}{% endcapture %}
+{% capture readme_content %}{% include_relative README.md %}{% endcapture %}
 {{ readme_content | replace: '### [Full Bio](https://xyuri.github.io/xYuri)', '' | markdownify }}
 
 
