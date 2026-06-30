@@ -2,15 +2,17 @@
 
 **Location:** Cairo, Egypt  
 **Email:** MYuri2020@gmail.com  
-**Website:** [https://xYuri.github.io/xYuri](https://xYuri.github.io/xYuri)
+**Website:** [https://xYuri.github.io/xYuri](https://xYuri.github.io/xYuri)  
 
 ---
 
 ## Professional Summary
 
-Versatile software engineer since 2013 with years of hands-on experience as a solo freelancer and hobbyist. Proficient across the full development spectrum – from low-level systems and game engines to modern web, mobile, and desktop applications.
+Versatile software engineer since 2013 with years of hands-on experience as a solo freelancer and hobbyist, and owner of **xYLabs**.
 
-I deliver complete commercial solutions independently while continuously exploring cutting-edge technologies in personal projects. Known for rapidly prototyping ideas, writing clean maintainable code, and optimizing performance using a vast multilingual toolkit.
+Proficient across the full development spectrum – from low-level systems and game engines to modern web, mobile, and desktop applications.
+
+Delivering complete commercial solutions independently while continuously exploring cutting-edge technologies in personal projects. Known for rapidly prototyping ideas, writing clean maintainable code, and optimizing performance using a vast multilingual toolkit.
 
 
 

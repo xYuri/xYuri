@@ -3,41 +3,9 @@ layout: default
 title: Yuri A. Wolf
 ---
 
-# Yuri A. Wolf
 
-**Location:** Cairo, Egypt  
-**Email:** MYuri2020@gmail.com  
-**Website:** [https://xYuri.github.io/xYuri](https://xYuri.github.io/xYuri)  
-
----
-
-## Professional Summary
-
-Versatile software engineer since 2013 with years of hands-on experience as a solo freelancer and hobbyist, and owner of **xYLabs**.
-
-Proficient across the full development spectrum – from low-level systems and game engines to modern web, mobile, and desktop applications.
-
-Delivering complete commercial solutions independently while continuously exploring cutting-edge technologies in personal projects. Known for rapidly prototyping ideas, writing clean maintainable code, and optimizing performance using a vast multilingual toolkit.
-
-
-
----
-
-
-
-## Core Competencies
-
-**Programming Languages**  
-C, C++, C#, HLSL, Java, Kotlin, PHP, SQL, JSON, JavaScript, TypeScript, Lua, XML, XAML, HTML5, CSS3, Python, Dart, Shell Script (.sh), AutoIt, AHK, Amadeus  
-
-**Frameworks & Platforms**  
-Android (SDK & NDK), Node.js, Spring Boot, Kotlin Multiplatform (KMP) Compose, React, WinUI, WPF, MAUI, Uno Platform, Flutter  
-
-**Game Engines**  
-Unity, Unreal Engine 4  
-
-**Tools & DevOps**  
-Git, RESTful APIs, Docker  
+{% capture readme_content %}{% include README.md %}{% endcapture %}
+{{ readme_content | replace: '### [Full Bio](https://xyuri.github.io/xYuri)', '' | markdownify }}
 
 
 
@@ -63,7 +31,7 @@ Axis is an all-in-one life companion that brings together Todos & Tasks, Health 
 
 
 
-<br/><br/><br/>
+<br/><br/>
 
 
 
@@ -90,7 +58,7 @@ Features include:
 
 
 
-<br/><br/><br/>
+<br/><br/>
 
 
 
@@ -108,7 +76,7 @@ Trusted by around 50k active users.
 
 
 
-<br/><br/><br/>
+<br/><br/>
 
 
 
@@ -126,7 +94,7 @@ Includes time management with organized listing by year, month, and day.
 
 
 
-<br/><br/><br/>
+<br/><br/>
 
 
 
@@ -148,7 +116,7 @@ Features include:
 
 
 
-<br/><br/><br/>
+<br/><br/>
 
 
 
@@ -171,7 +139,7 @@ Features include:
 
 
 
-<br/><br/><br/>
+<br/><br/>
 
 
 
@@ -193,7 +161,7 @@ Features include:
 
 
 
-<br/><br/><br/>
+<br/><br/>
 
 
 
@@ -214,13 +182,13 @@ Frameworks: .NET 8.0
 
 
 
-<br/><br/><br/>
+<br/><br/>
 
 
 
 
 
-- ### xHades (PUBGM) (2022)
+- ### xHades (2022)
 A premium (paid) companion app for Player Unknown's Battlegrounds Mobile (PUBGM), with a lot of one-of-a-kind features engineered to deliver a competitive edge through advanced real-time analytics and system-level integration.  
 With a custom multi-layered security system both within client and on server, making it impossible to hack into, crack, or edit the app.  
 With a complete set of Admin control panel, and digital keys generator and region lock.  
