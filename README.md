@@ -21,16 +21,16 @@ I deliver complete commercial solutions independently while continuously explori
 ## Core Competencies
 
 **Programming Languages**  
-C, C++, C#, HLSL, Java, Kotlin, Lua, AutoIt, AHK, PHP, SQL, JSON, JavaScript, TypeScript, XML, XAML, HTML5, CSS3, Python, Dart, Shell (SH), Amadeus
+C, C++, C#, HLSL, Java, Kotlin, PHP, SQL, JSON, JavaScript, TypeScript, Lua, XML, XAML, HTML5, CSS3, Python, Dart, Shell Script (.sh), AutoIt, AHK, Amadeus  
 
 **Frameworks & Platforms**  
-Android (SDK & NDK), Node.js, Spring Boot, Kotlin Multiplatform (KMP) Compose, React, WinUI, WPF, MAUI, Uno Platform, Flutter
+Android (SDK & NDK), Node.js, Spring Boot, Kotlin Multiplatform (KMP) Compose, React, WinUI, WPF, MAUI, Uno Platform, Flutter  
 
 **Game Engines**  
-Unity, Unreal Engine 4
+Unity, Unreal Engine 4  
 
 **Tools & DevOps**  
-Git, RESTful APIs, Docker
+Git, RESTful APIs, Docker  
 
 
 
