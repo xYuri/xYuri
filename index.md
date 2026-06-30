@@ -53,8 +53,11 @@ Git, RESTful APIs, Docker
 Axis is an all-in-one life companion that brings together Todos & Tasks, Health tracking, Financial tracking, and Personalization tools, making it effortless to keep track of everything, stay organized, and in control.
 
 **Platforms:** Windows, Linux, MAC, Android, iOS, Web
+
 **Languages:** Kotlin, SQL, JSON, JS
+
 **Framework:** KMP Compose Multiplatform
+
 **Libraries & APIs:** Material 3, Room 3, Win32, Android, WASM, ProtoBuf, KMP-ZIP, Google Drive API, Custom Encryptions
 
 
@@ -74,7 +77,9 @@ A productivity toolkit designed for customer service agents to streamline daily 
 	- Idle-time stopwatch to help manage chat disconnection policies
 
 **Platforms:** Web
+
 **Languages:** HTML, CSS, JavaScript, TypeScript, JSON
+
 **Framework:** React.js
 
 
@@ -85,7 +90,9 @@ A productivity toolkit designed for customer service agents to streamline daily 
 A Telegram chat bot that manages queues in group chats to organize speaker turns, with a developer control panel through chat, admin control panel, and permissions system. Trusted by around 50k active users.
 
 **Platforms:** Telegram
+
 **Languages:** Java, Kotlin, JSON
+
 **Frameworks:** Telegram Bot API, Spring Boot, Docker
 
 
@@ -97,7 +104,9 @@ Creates and manages dev logs and todo lists for developers, enabling easier trac
 Includes time management with organized listing by year, month, and day.
 
 **Platforms:** Windows
+
 **Languages:** C#, SQL, JSON
+
 **Frameworks:** MAUI, .NET 10.0
 
 
@@ -112,7 +121,9 @@ A comprehensive companion toolkit for Albion Online players, designed to enhance
 	- Enchantment profitability calculator with real-time material cost tracking
 
 **Platforms:** Windows
+
 **Languages:** C#, SQL, JSON
+
 **Frameworks:** MAUI, .NET 10.0, Albion Online Data Project API
 
 
@@ -128,7 +139,9 @@ A companion toolkit for EVE Online players, designed to enhance the gaming exper
 	- LP Stores profit calculator
 
 **Platforms:** Windows
+
 **Languages:** C#, SQL, JSON
+
 **Frameworks:** WinUI 3, WPF, .NET 7.0, ESI (EVE Swagger Interface) API
 
 
@@ -143,7 +156,9 @@ A comprehensive companion toolkit for Albion Online players, designed to enhance
 	- Enchantment profitability calculator with real-time material cost tracking
 
 **Platforms:** Android
+
 **Languages:** Kotlin, JSON
+
 **Frameworks:** Android, Albion Online Data Project API
 
 
